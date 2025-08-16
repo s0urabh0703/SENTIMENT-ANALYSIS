@@ -16,6 +16,9 @@
 Amazon receives millions of product reviews every day. Understanding whether these reviews are positive, negative, or neutral is crucial for businesses to improve customer experience, detect issues, and identify market trends.
 This project applies Natural Language Processing (NLP) and Machine Learning/Deep Learning techniques to classify Amazon customer reviews based on sentiment.
 
+# DATASET
+https://1drv.ms/x/c/029a3e0d32f96e09/Efh6lc-PJX9LtTkDZEffbcEBF3bTzdT_OAVSlFgTTWr49w?e=MCs8C2
+
 # Features
 ✅ Collects and processes Amazon product reviews
 ✅ Cleans and preprocesses text (lowercasing, punctuation removal, tokenization, stopword removal)
